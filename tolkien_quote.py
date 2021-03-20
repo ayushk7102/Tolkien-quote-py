@@ -7,12 +7,8 @@ import csv
 import os
 import random as rd
 import numpy as np
+import keys
 
-api_key = 'E0deXoinyr7UhoCidIOTG4SaG'
-api_secret_key = 'HTY7d8teT223fgSpLOtnkUJdGeWVmKIxixbQn8nap6CEz9ywJL'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAKdANwEAAAAAEaa%2FvSsVwf9UkEQO0GGuqoHmdKU%3DdaKeFmI1Nv679VUmXUOC7XntENGDAAhYXVVlSBe5QitjzzQrcf'
-access_token = '1243477142584737792-98oGKzRy9zyYXg9HFgLsgcHrVRzLjB'
-access_token_secret = 'vGww6kYRunI0T9hK0uqZUIm4LTBTORAo1xyjBiqcGztmh'
 
 qt_list = []
 
